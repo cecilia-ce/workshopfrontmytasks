@@ -1,0 +1,29 @@
+:root {
+    --background: #F0F2F5;
+    --red: #E62E4D;
+    --blue: #5429CC;
+    --green: #33CC95;
+    --blue-light: #6933FF;
+    --text-title: #363F5F;
+    --text-body: #969CB3;
+    --shape: #FFFFFF;
+}
+
+.header{
+    background-color: var(--background);
+}
+
+.header header{
+    max-width: 1120px;
+    background-color: var(--background);
+    margin: 0 auto; 
+    padding: 2rem 2rem 7.5rem;
+    
+
+
+
+}
+
+.header header img{ 
+    max-width: 80px;
+}
