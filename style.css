@@ -27,7 +27,6 @@ ul {
     list-style: none;
 }
 
-
 .header{
     background-color: var(--shape);
 }
@@ -62,7 +61,6 @@ section.criaTask header {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-
 }
 
 section.criaTask h1 {
