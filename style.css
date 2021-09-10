@@ -27,14 +27,6 @@ ul {
     list-style: none;
 }
 
-.header li {
-    padding: 2rem 3rem 1rem;
-    background-color: var(--red);
-}
-
-#menu1 {
-    background-color: blue;
-}
 
 .header{
     background-color: var(--shape);
